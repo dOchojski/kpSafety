@@ -1,4 +1,4 @@
-package com.d_d.kpsafetywebsite;
+package com.d_d.kpsafetywebsite.unitTests;
 
 import com.d_d.kpsafetywebsite.services.EmailService;
 import org.junit.jupiter.api.BeforeEach;

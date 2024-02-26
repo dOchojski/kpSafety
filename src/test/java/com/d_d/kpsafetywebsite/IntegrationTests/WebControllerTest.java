@@ -1,4 +1,4 @@
-package com.d_d.kpsafetywebsite;
+package com.d_d.kpsafetywebsite.IntegrationTests;
 
 import com.d_d.kpsafetywebsite.controller.WebController;
 import com.d_d.kpsafetywebsite.services.EmailService;
